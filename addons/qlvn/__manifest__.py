@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "nhan_su",
+    'name': "Quản lý văn bản(QLVB)",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Đổi theo ý tưởng của bạn""",
 
     'description': """
-        Long description of module's purpose
+        mô tả ý tưởng của bạn
     """,
 
     'author': "My Company",
@@ -20,17 +19,12 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base', 'nhan_su'],
 
     # always loaded
     'data': [
     'security/ir.model.access.csv',
-    'views/nhan_vien.xml',
-    'views/phong_ban.xml',
-    'views/chuc_vu.xml',
-    'views/cham_cong.xml',
-    'views/lich_su_cong_tac.xml',
-    'views/chung_chi.xml',
+    'views/loai_van_ban.xml',
     'views/menu.xml',
     ],
 

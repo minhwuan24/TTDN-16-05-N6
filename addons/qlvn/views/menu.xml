@@ -1,0 +1,21 @@
+<odoo>
+    <data>
+
+        <!-- ROOT MENU -->
+        <menuitem
+            id="menu_root"
+            name="Quản lý văn bản"
+            sequence="10"
+        />
+
+        <!-- MENU CON -->
+        <menuitem
+            id="menu_loai_van_ban"
+            name="Loại văn bản"
+            parent="menu_root"
+            action="action_loai_van_ban"
+            sequence="1"
+        />
+
+    </data>
+</odoo>

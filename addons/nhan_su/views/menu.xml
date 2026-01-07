@@ -1,16 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <data>
+
+        <!-- ================= ROOT MENU ================= -->
         <menuitem
-            id="menu_root"
-            name="QLNS"
-            sequence="0"/>
-          
-        <menuitem name="Quản lý nhân viên" 
-            id="menu_nhan_vien" 
-            parent="menu_root" 
-            sequence="1"
-            action="action_nhan_vien"
+            id="menu_qlns_root"
+            name="Quản lý nhân sự"
+            sequence="10"
         />
+
+        <!-- ================= DANH MỤC ================= -->
+        <menuitem
+            id="menu_qlns_danh_muc"
+            name="Danh mục"
+            parent="menu_qlns_root"
+            sequence="1"
+        />
+
+        <menuitem
+            id="menu_chuc_vu"
+            name="Chức vụ"
+            parent="menu_qlns_danh_muc"
+            action="action_chuc_vu"
+            sequence="1"
+        />
+
+        <menuitem
+            id="menu_phong_ban"
+            name="Phòng ban"
+            parent="menu_qlns_danh_muc"
+            action="action_phong_ban"
+            sequence="2"
+        />
+
+        <!-- ================= NGHIỆP VỤ ================= -->
+        <menuitem
+            id="menu_qlns_nghiep_vu"
+            name="Nghiệp vụ"
+            parent="menu_qlns_root"
+            sequence="2"
+        />
+
+        <menuitem
+            id="menu_nhan_vien"
+            name="Nhân viên"
+            parent="menu_qlns_nghiep_vu"
+            action="action_nhan_vien"
+            sequence="1"
+        />
+
+        <menuitem
+            id="menu_cham_cong"
+            name="Chấm công"
+            parent="menu_qlns_nghiep_vu"
+            action="action_cham_cong"
+            sequence="2"
+        />
+
+        <menuitem
+            id="menu_lich_su_cong_tac"
+            name="Lịch sử công tác"
+            parent="menu_qlns_nghiep_vu"
+            action="action_lich_su_cong_tac"
+            sequence="3"
+        />
+
+        <menuitem
+            id="menu_chung_chi"
+            name="Chứng chỉ"
+            parent="menu_qlns_nghiep_vu"
+            action="action_chung_chi"
+            sequence="4"
+        />
+
     </data>
 </odoo>
