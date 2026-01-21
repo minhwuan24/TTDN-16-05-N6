@@ -21,13 +21,14 @@
 </div>
  
 ## 📖 1. Giới thiệu
-Hệ thống Quản lý Nhân Sự, Chấm Công và Tính Lương được xây dựng dựa trên nền tảng **Odoo**, nhằm hỗ trợ các doanh nghiệp và tổ chức trong việc quản lý toàn diện về nhân sự. Hệ thống cung cấp các tính năng:
 
-- **Quản lý Nhân Sự (HR)**: Quản lý thông tin nhân viên, hợp đồng lao động, phòng ban, chức vụ
-- **Chấm Công (Attendance)**: Theo dõi thời gian tham gia công việc, giờ làm việc, nghỉ phép
-- **Tính Lương (Payroll)**: Tính toán lương, thưởng, phụ cấp, khấu trừ và xuất bảng lương chi tiết
+**Hệ Thống Quản Lý Nhân Sự, Khách Hàng và Văn Bản** được xây dựng dựa trên nền tảng **Odoo**, nhằm hỗ trợ doanh nghiệp và tổ chức trong việc quản lý tập trung và số hóa các nghiệp vụ cốt lõi, bao gồm:
 
-Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, giải pháp này mang lại một nền tảng tập trung, hiện đại, tự động hóa và dễ sử dụng cho toàn bộ quy trình quản lý nhân sự.
+- **Quản lý Nhân Sự (Human Resources)**
+- **Quản lý Khách Hàng (Customer Management)**
+- **Quản lý Văn Bản (Document Management)**
+
+Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời rạc (Excel, giấy tờ), hướng tới một nền tảng **tập trung – bảo mật – dễ mở rộng – dễ sử dụng**.
 
 ## 🔧 2. Các công nghệ được sử dụng
 <div align="center">
