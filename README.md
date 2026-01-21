@@ -233,21 +233,18 @@ python odoo-bin.py -c odoo.conf
 
 ## 📚 5. Cấu hình các Module chính
 
-### 5.1. Module Nhân Sự (HR)
-- Đi tới: Settings → Employees → Employees
-- Thêm thông tin nhân viên, phòng ban, chức vụ
+### 5.1. Nhân Sự
+- Settings → Employees → Employees
 
-### 5.2. Module Chấm Công (Attendance)
-- Đi tới: HR → Attendance → Check-in
-- Cấu hình dữ liệu chấm công
+### 5.2. Khách Hàng
+- Sales / Contacts → Customers
 
-### 5.3. Module Tính Lương (Payroll)
-- Đi tới: HR → Payroll → Salary Rules
-- Tạo các quy tắc tính lương, loại phụ cấp, khấu trừ
+### 5.3. Văn Bản
+- Documents → Documents
+- Cấu hình phân quyền và danh mục văn bản
 
-### 5.4. Module Nghỉ Phép (Leaves)
-- Đi tới: HR → Leaves → Leave Types
-- Cấu hình các loại nghỉ phép và số ngày hưởng
+---
+
 
 
     
