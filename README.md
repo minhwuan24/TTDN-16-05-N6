@@ -59,39 +59,43 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 
 ## 🚀 3. Các tính năng chính
 
-### ✨ Quản lý Nhân Sự (HR Module)
-- 👥 Quản lý thông tin nhân viên chi tiết (cá nhân, liên lạc, hợp đồng)
-- 🏢 Tổ chức cấu trúc công ty (phòng ban, chức vụ, quản lý cấp bậc)
-- 📋 Quản lý hợp đồng lao động và tuyển dụng
-- 🎓 Quản lý kỹ năng, đào tạo và phát triển nhân sự
-- 📊 Biểu đồ tổ chức và sơ đồ cấu trúc công ty
+### 👥 Quản lý Nhân Sự (HR Module)
+- Quản lý hồ sơ nhân viên, thông tin cá nhân và liên hệ
+- Quản lý phòng ban, chức vụ, cơ cấu tổ chức
+- Quản lý hợp đồng lao động, quá trình công tác
+- Theo dõi trạng thái làm việc của nhân viên
+- Phân quyền và vai trò người dùng
 
-### ⏱️ Chấm Công & Đi/Về (Attendance Module)
-- 🕐 Theo dõi thời gian tham gia công việc chi tiết
-- 📱 Hỗ trợ chấm công qua máy chủ hoặc thiết bị mobile
-- 🏠 Quản lý làm việc từ xa
-- 📅 Lịch công tác và lập kế hoạch công việc
-- ⚠️ Cảnh báo khi muộn, sớm về hoặc vắng mặt
+---
 
-### 💰 Tính Lương (Payroll Module)
-- 🧮 Tính toán lương tự động theo công thức cấu hình
-- 💳 Quản lý các khoản lương, thưởng, phụ cấp, khấu trừ
-- 📊 Xuất bảng lương chi tiết, sao kê lương cá nhân
-- 🏦 Quản lý khoản vay, bảo hiểm xã hội (BHXH, BHYT, BHTN)
-- 📈 Báo cáo lương theo tháng, quý, năm
-- ✅ Phê duyệt lương và quy trình công khai
+### 🤝 Quản lý Khách Hàng (Customer Module)
+- Quản lý thông tin khách hàng, đối tác
+- Lưu trữ lịch sử giao dịch, liên hệ
+- Phân loại khách hàng theo nhóm, trạng thái
+- Theo dõi quá trình chăm sóc khách hàng
+- Hỗ trợ tích hợp CRM cơ bản
 
-### 🕖 Nghỉ Phép & Thời Gian Off (Leaves Module)
-- 📅 Quản lý các loại nghỉ phép (phép năm, phép ốm, phép không lương, ...)
-- 🔄 Quy trình yêu cầu và phê duyệt nghỉ phép
-- 📊 Báo cáo số ngày nghỉ, ngày còn lại
-- ⏰ Hỗ trợ tính lương tự động khi có nghỉ phép
+---
 
-### 📊 Báo Cáo & Phân Tích
-- 📈 Báo cáo chi tiết về nhân sự, chấm công, lương
-- 📉 Phân tích xu hướng, thống kê, dự báo
-- 🎯 Bảng điều khiển (Dashboard) tổng hợp thông tin chính
-- 📄 Xuất báo cáo sang Excel, PDF
+### 📄 Quản lý Văn Bản & Hồ Sơ (Document Module)
+- Quản lý văn bản đến / đi
+- Lưu trữ hồ sơ điện tử tập trung
+- Phân loại văn bản theo loại, lĩnh vực, phòng ban
+- Theo dõi trạng thái xử lý văn bản
+- Phân quyền truy cập và bảo mật tài liệu
+
+---
+
+### 📊 Báo Cáo & Thống Kê
+- Báo cáo nhân sự, khách hàng, văn bản
+- Thống kê số lượng hồ sơ, tình trạng xử lý
+- Dashboard tổng hợp dữ liệu
+- Xuất báo cáo ra PDF, Excel
+
+---
+
+## 📸 3.1. Giao diện hệ thống
+
 
 ## 📸 3.1. Giao diện chính của hệ thống
 
