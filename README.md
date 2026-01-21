@@ -104,7 +104,7 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 ![Quản lý Chức Vụ](images/van_ban.png)
 
 ### Quản lý Khách Hàng
-![Tính Lương](images/tinh_luong.png)
+![Tính Lương](images/khach_hang.png)
 
 ## ⚙️ 4. Cài đặt và Chạy Hệ Thống
 
