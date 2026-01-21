@@ -94,8 +94,6 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 
 ---
 
-## 📸 3.1. Giao diện hệ thống
-
 
 ## 📸 3.1. Giao diện chính của hệ thống
 
