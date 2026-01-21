@@ -77,7 +77,7 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 
 ---
 
-### 📄 Quản lý Văn Bản & Hồ Sơ (Document Module)
+### 📄 Quản lý Văn Bản (Document Module)
 - Quản lý văn bản đến / đi
 - Lưu trữ hồ sơ điện tử tập trung
 - Phân loại văn bản theo loại, lĩnh vực, phòng ban
