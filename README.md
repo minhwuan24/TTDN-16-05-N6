@@ -3,16 +3,14 @@
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
 </h2>
-
 <h2 align="center">
-    Hệ Thống Quản Lý Nhân Sự, Khách Hàng và Văn Bản<br/>
-    <small>Human Resources, Customer & Document Management System</small>
+    Hệ Thống Quản Lý Nhân Sự, Chấm Công và Tính Lương<br/>
+    <small>Human Resources, Attendance & Payroll Management System</small>
 </h2>
-
 <div align="center">
     <p align="center">
         <img src="images/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="images/fitdnu_logo.png" alt="FIT DNU Logo" width="180"/>
+        <img src="images/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
         <img src="images/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
@@ -21,34 +19,28 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-
----
-
+ 
 ## 📖 1. Giới thiệu
+Hệ thống Quản lý Nhân Sự, Chấm Công và Tính Lương được xây dựng dựa trên nền tảng **Odoo**, nhằm hỗ trợ các doanh nghiệp và tổ chức trong việc quản lý toàn diện về nhân sự. Hệ thống cung cấp các tính năng:
 
-**Hệ Thống Quản Lý Nhân Sự, Khách Hàng và Văn Bản** được xây dựng dựa trên nền tảng **Odoo**, nhằm hỗ trợ doanh nghiệp và tổ chức trong việc quản lý tập trung và số hóa các nghiệp vụ cốt lõi, bao gồm:
+- **Quản lý Nhân Sự (HR)**: Quản lý thông tin nhân viên, hợp đồng lao động, phòng ban, chức vụ
+- **Chấm Công (Attendance)**: Theo dõi thời gian tham gia công việc, giờ làm việc, nghỉ phép
+- **Tính Lương (Payroll)**: Tính toán lương, thưởng, phụ cấp, khấu trừ và xuất bảng lương chi tiết
 
-- **Quản lý Nhân Sự (Human Resources)**
-- **Quản lý Khách Hàng (Customer Management)**
-- **Quản lý Văn Bản & Hồ Sơ (Document Management)**
-
-Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời rạc (Excel, giấy tờ), hướng tới một nền tảng **tập trung – bảo mật – dễ mở rộng – dễ sử dụng**.
-
----
+Thay vì sử dụng các tệp Excel rời rạc hay hệ thống thủ công, giải pháp này mang lại một nền tảng tập trung, hiện đại, tự động hóa và dễ sử dụng cho toàn bộ quy trình quản lý nhân sự.
 
 ## 🔧 2. Các công nghệ được sử dụng
-
 <div align="center">
 
-### Nền tảng chính
+### Nền Tảng Chính
 [![Odoo](https://img.shields.io/badge/Odoo%2017-6C3696?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-### Backend
+### Công nghệ Backend
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![XML](https://img.shields.io/badge/XML-FF6B6B?style=for-the-badge&logo=xml&logoColor=white)](#)
 
-### Frontend
+### Công nghệ Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -62,60 +54,54 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
 </div>
-
----
 
 ## 🚀 3. Các tính năng chính
 
-### 👥 Quản lý Nhân Sự (HR Module)
-- Quản lý hồ sơ nhân viên, thông tin cá nhân và liên hệ
-- Quản lý phòng ban, chức vụ, cơ cấu tổ chức
-- Quản lý hợp đồng lao động, quá trình công tác
-- Theo dõi trạng thái làm việc của nhân viên
-- Phân quyền và vai trò người dùng
+### ✨ Quản lý Nhân Sự (HR Module)
+- 👥 Quản lý thông tin nhân viên chi tiết (cá nhân, liên lạc, hợp đồng)
+- 🏢 Tổ chức cấu trúc công ty (phòng ban, chức vụ, quản lý cấp bậc)
+- 📋 Quản lý hợp đồng lao động và tuyển dụng
+- 🎓 Quản lý kỹ năng, đào tạo và phát triển nhân sự
+- 📊 Biểu đồ tổ chức và sơ đồ cấu trúc công ty
 
----
+### ⏱️ Chấm Công & Đi/Về (Attendance Module)
+- 🕐 Theo dõi thời gian tham gia công việc chi tiết
+- 📱 Hỗ trợ chấm công qua máy chủ hoặc thiết bị mobile
+- 🏠 Quản lý làm việc từ xa
+- 📅 Lịch công tác và lập kế hoạch công việc
+- ⚠️ Cảnh báo khi muộn, sớm về hoặc vắng mặt
 
-### 🤝 Quản lý Khách Hàng (Customer Module)
-- Quản lý thông tin khách hàng, đối tác
-- Lưu trữ lịch sử giao dịch, liên hệ
-- Phân loại khách hàng theo nhóm, trạng thái
-- Theo dõi quá trình chăm sóc khách hàng
-- Hỗ trợ tích hợp CRM cơ bản
+### 💰 Tính Lương (Payroll Module)
+- 🧮 Tính toán lương tự động theo công thức cấu hình
+- 💳 Quản lý các khoản lương, thưởng, phụ cấp, khấu trừ
+- 📊 Xuất bảng lương chi tiết, sao kê lương cá nhân
+- 🏦 Quản lý khoản vay, bảo hiểm xã hội (BHXH, BHYT, BHTN)
+- 📈 Báo cáo lương theo tháng, quý, năm
+- ✅ Phê duyệt lương và quy trình công khai
 
----
+### 🕖 Nghỉ Phép & Thời Gian Off (Leaves Module)
+- 📅 Quản lý các loại nghỉ phép (phép năm, phép ốm, phép không lương, ...)
+- 🔄 Quy trình yêu cầu và phê duyệt nghỉ phép
+- 📊 Báo cáo số ngày nghỉ, ngày còn lại
+- ⏰ Hỗ trợ tính lương tự động khi có nghỉ phép
 
-### 📄 Quản lý Văn Bản & Hồ Sơ (Document Module)
-- Quản lý văn bản đến / đi
-- Lưu trữ hồ sơ điện tử tập trung
-- Phân loại văn bản theo loại, lĩnh vực, phòng ban
-- Theo dõi trạng thái xử lý văn bản
-- Phân quyền truy cập và bảo mật tài liệu
+### 📊 Báo Cáo & Phân Tích
+- 📈 Báo cáo chi tiết về nhân sự, chấm công, lương
+- 📉 Phân tích xu hướng, thống kê, dự báo
+- 🎯 Bảng điều khiển (Dashboard) tổng hợp thông tin chính
+- 📄 Xuất báo cáo sang Excel, PDF
 
----
-
-### 📊 Báo Cáo & Thống Kê
-- Báo cáo nhân sự, khách hàng, văn bản
-- Thống kê số lượng hồ sơ, tình trạng xử lý
-- Dashboard tổng hợp dữ liệu
-- Xuất báo cáo ra PDF, Excel
-
----
-
-## 📸 3.1. Giao diện hệ thống
+## 📸 3.1. Giao diện chính của hệ thống
 
 ### Quản lý Nhân Sự
 ![Quản lý Nhân Sự](images/nhan_su.png)
 
-### Quản lý Khách Hàng
-![Quản lý Khách Hàng](images/khach_hang.png)
+### Quản lý Chức Vụ
+![Quản lý Chức Vụ](images/chuc_vu.png)
 
-### Quản lý Văn Bản
-![Quản lý Văn Bản](images/van_ban.png)
-
----
+### Tính Lương
+![Tính Lương](images/tinh_luong.png)
 
 ## ⚙️ 4. Cài đặt và Chạy Hệ Thống
 
@@ -244,18 +230,21 @@ python odoo-bin.py -c odoo.conf
 
 ## 📚 5. Cấu hình các Module chính
 
-### 5.1. Nhân Sự
-- Settings → Employees → Employees
+### 5.1. Module Nhân Sự (HR)
+- Đi tới: Settings → Employees → Employees
+- Thêm thông tin nhân viên, phòng ban, chức vụ
 
-### 5.2. Khách Hàng
-- Sales / Contacts → Customers
+### 5.2. Module Chấm Công (Attendance)
+- Đi tới: HR → Attendance → Check-in
+- Cấu hình dữ liệu chấm công
 
-### 5.3. Văn Bản
-- Documents → Documents
-- Cấu hình phân quyền và danh mục văn bản
+### 5.3. Module Tính Lương (Payroll)
+- Đi tới: HR → Payroll → Salary Rules
+- Tạo các quy tắc tính lương, loại phụ cấp, khấu trừ
 
----
+### 5.4. Module Nghỉ Phép (Leaves)
+- Đi tới: HR → Leaves → Leave Types
+- Cấu hình các loại nghỉ phép và số ngày hưởng
 
-## 📌 Ghi chú
-- Dự án phục vụ mục đích **học tập – nghiên cứu – thực hành Odoo**
-- Có thể mở rộng thêm CRM, Workflow, chữ ký số trong tương lai
+
+    
