@@ -98,12 +98,12 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 ## 📸 3.1. Giao diện chính của hệ thống
 
 ### Quản lý Nhân Sự
-![Quản lý Nhân Sự](images/nhan_su.png)
+![Quản lý Nhân Sự](images/Screenshot(6).png)
 
-### Quản lý Chức Vụ
-![Quản lý Chức Vụ](images/chuc_vu.png)
+### Quản lý Văn Bản
+![Quản lý Chức Vụ](images/Screenshot(7).png)
 
-### Tính Lương
+### Quản lý Khách Hàng
 ![Tính Lương](images/tinh_luong.png)
 
 ## ⚙️ 4. Cài đặt và Chạy Hệ Thống
