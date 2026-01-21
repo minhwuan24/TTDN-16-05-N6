@@ -5,7 +5,7 @@
 </h2>
 <h2 align="center">
     Hệ Thống Quản Lý Nhân Sự, Khách Hàng và Văn Bản<br/>
-    <small>Human Resources, Attendance & Payroll Management System</small>
+    <small>Human Resources, Customer & Document Management System</small>
 </h2>
 <div align="center">
     <p align="center">
