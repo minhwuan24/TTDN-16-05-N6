@@ -36,8 +36,8 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 📸 **Giao diện hệ thống**
 
 <p>
-    <img src="images/nhansu.jpg" alt="Màn hình Quản lý nhân sự" width="45%"/>
-    <img src="images/tinhluong.jpg" alt="Màn hình Tính lương" width="45%"/>
+    <img src="images/khach_hang.png" alt="Màn hình Quản lý khách hàng" width="45%"/>
+    <img src="images/van_ban_di.png" alt="Màn hình các văn bản" width="45%"/>
 </p>
 
 </div>
