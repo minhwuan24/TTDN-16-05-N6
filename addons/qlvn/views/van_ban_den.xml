@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <data>
+
+    <record id="view_van_ban_den_form_v2" model="ir.ui.view">
+      <field name="name">van_ban_den.form.v2</field>
+      <field name="model">van_ban_den</field>
+      <field name="arch" type="xml">
+        <form string="Văn bản đến">
+          <sheet>
+
+            <group>
+              <field name="so_ky_hieu"/>
+              <field name="trich_yeu"/>
+            </group>
+
+            <group string="Nhân sự liên quan">
+              <field name="nhan_vien_xu_ly_id"/>
+              <field name="nhan_vien_ky_id"/>
+              <field name="nhan_vien_phoi_hop_ids" widget="many2many_tags"/>
+            </group>
+
+          </sheet>
+        </form>
+      </field>
+    </record>
+
+    <record id="view_van_ban_den_tree_v2" model="ir.ui.view">
+      <field name="name">van_ban_den.tree.v2</field>
+      <field name="model">van_ban_den</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="so_ky_hieu"/>
+          <field name="nhan_vien_xu_ly_id"/>
+          <field name="nhan_vien_ky_id"/>
+        </tree>
+      </field>
+    </record>
+
+    <record id="action_van_ban_den" model="ir.actions.act_window">
+      <field name="name">Văn bản đến</field>
+      <field name="res_model">van_ban_den</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+  </data>
+</odoo>

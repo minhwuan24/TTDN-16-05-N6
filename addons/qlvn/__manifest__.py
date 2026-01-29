@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Quản lý văn bản(QLVB)",
+    'name': "QLVB",
 
     'summary': """
         Đổi theo ý tưởng của bạn""",
@@ -19,12 +19,14 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base', 'nhan_su'],
+    'depends': ['base','nhan_su','quan_ly_khach_hang'],
 
     # always loaded
     'data': [
     'security/ir.model.access.csv',
     'views/loai_van_ban.xml',
+    'views/van_ban_den.xml',
+    'views/van_ban_di.xml',
     'views/menu.xml',
     ],
 
