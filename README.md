@@ -22,15 +22,38 @@
  
 ## 📖 1. Giới thiệu
 
-**Hệ Thống Quản Lý Nhân Sự, Khách Hàng và Văn Bản** được xây dựng dựa trên nền tảng **Odoo**, nhằm hỗ trợ doanh nghiệp và tổ chức trong việc quản lý tập trung và số hóa các nghiệp vụ cốt lõi, bao gồm:
+Hệ thống **Quản lý Nhân Sự, Khách Hàng và Văn Bản** được xây dựng trên nền tảng **Odoo 17**, 
+nhằm hỗ trợ doanh nghiệp và tổ chức trong việc:
 
-- **Quản lý Nhân Sự (Human Resources)**
-- **Quản lý Khách Hàng (Customer Management)**
-- **Quản lý Văn Bản (Document Management)**
+- Quản lý thông tin nhân sự tập trung
+- Theo dõi, lưu trữ và xử lý văn bản đến – đi
+- Quản lý dữ liệu khách hàng và hồ sơ liên quan
+- Đồng bộ dữ liệu giữa các bộ phận trong hệ thống
 
-Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời rạc (Excel, giấy tờ), hướng tới một nền tảng **tập trung – bảo mật – dễ mở rộng – dễ sử dụng**.
+Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công và nâng cao tính chính xác dữ liệu**.
+<div align="center">
 
-## 🔧 2. Các công nghệ được sử dụng
+📸 **Giao diện hệ thống**
+
+<p>
+    <img src="images/nhansu.jpg" alt="Màn hình Quản lý nhân sự" width="45%"/>
+    <img src="images/tinhluong.jpg" alt="Màn hình Tính lương" width="45%"/>
+</p>
+
+</div>
+
+<br/>
+### 🎯 Lợi ích chính:
+- ✅ Quản lý tập trung Nhân sự – Khách hàng – Văn bản
+- ✅ Giảm phụ thuộc vào giấy tờ và Excel thủ công
+- ✅ Dữ liệu liên kết, đồng bộ giữa các module
+- ✅ Phân quyền rõ ràng, bảo mật thông tin
+- ✅ Phù hợp cho cơ quan, doanh nghiệp, tổ chức hành chính
+### 📌 Module Cốt Lõi:
+1. **Quản lý Nhân Sự** – Hồ sơ nhân viên, phòng ban, chức vụ
+2. **Quản lý Khách Hàng** – Thông tin khách hàng, liên hệ, hồ sơ
+3. **Quản lý Văn Bản** – Văn bản đến, văn bản đi, lưu trữ & tra cứu
+## 🔧 3. Các công nghệ được sử dụng
 <div align="center">
 
 ### Nền Tảng Chính
@@ -56,55 +79,6 @@ Hệ thống giúp thay thế các phương pháp quản lý thủ công, rời 
 [![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 </div>
-
-## 🚀 3. Các tính năng chính
-
-### 👥 Quản lý Nhân Sự (HR Module)
-- Quản lý hồ sơ nhân viên, thông tin cá nhân và liên hệ
-- Quản lý phòng ban, chức vụ, cơ cấu tổ chức
-- Quản lý hợp đồng lao động, quá trình công tác
-- Theo dõi trạng thái làm việc của nhân viên
-- Phân quyền và vai trò người dùng
-
----
-
-### 🤝 Quản lý Khách Hàng (Customer Module)
-- Quản lý thông tin khách hàng, đối tác
-- Lưu trữ lịch sử giao dịch, liên hệ
-- Phân loại khách hàng theo nhóm, trạng thái
-- Theo dõi quá trình chăm sóc khách hàng
-- Hỗ trợ tích hợp CRM cơ bản
-
----
-
-### 📄 Quản lý Văn Bản (Document Module)
-- Quản lý văn bản đến / đi
-- Lưu trữ hồ sơ điện tử tập trung
-- Phân loại văn bản theo loại, lĩnh vực, phòng ban
-- Theo dõi trạng thái xử lý văn bản
-- Phân quyền truy cập và bảo mật tài liệu
-
----
-
-### 📊 Báo Cáo & Thống Kê
-- Báo cáo nhân sự, khách hàng, văn bản
-- Thống kê số lượng hồ sơ, tình trạng xử lý
-- Dashboard tổng hợp dữ liệu
-- Xuất báo cáo ra PDF, Excel
-
----
-
-
-## 📸 3.1. Giao diện chính của hệ thống
-
-### Quản lý Nhân Sự
-![Quản lý Nhân Sự](images/nhan_su.png)
-
-### Quản lý Văn Bản
-![Quản lý Chức Vụ](images/van_ban.png)
-
-### Quản lý Khách Hàng
-![Tính Lương](images/khach_hang.jpg)
 
 ## ⚙️ 4. Cài đặt và Chạy Hệ Thống
 
