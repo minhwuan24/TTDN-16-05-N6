@@ -50,6 +50,7 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 - ✅ Phân quyền rõ ràng, bảo mật thông tin
 - ✅ Phù hợp cho cơ quan, doanh nghiệp, tổ chức hành chính
 
+
 ### 📌 Module Cốt Lõi:
 1. **Quản lý Nhân Sự** – Hồ sơ nhân viên, phòng ban, chức vụ
 2. **Quản lý Khách Hàng** – Thông tin khách hàng, liên hệ, hồ sơ
