@@ -5,7 +5,7 @@
 </h2>
 <h2 align="center">
     Hệ Thống Quản Lý Nhân Sự, Khách Hàng và Văn Bản<br/>
-    <small>Human Resources, Customer & Document Management System</small>
+    <small>Human Resources, Customer & Document Management</small>
 </h2>
 <div align="center">
     <p align="center">
@@ -47,7 +47,7 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 
 ## 🎨 2. Các Tính Năng Chi Tiết
 
-### 1️⃣ Quản lý Nhân Sự (HR Module) 👥
+### 1️⃣ Quản lý Nhân Sự (HR Module) 
 **Quản lý toàn bộ thông tin nhân viên và cấu trúc tổ chức**
 
 <div align="center">
@@ -70,8 +70,8 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 
 </div>
 
-### 2️⃣ Chấm Công & Giờ Làm Việc (Attendance Module) ⏱️
-**Theo dõi thời gian làm việc, đi/về, làm việc từ xa**
+### 2️⃣ Khách Hàng (Customer Module) 
+**Theo dõi các thông tin về khách hàng**
 
 <div align="center">
     <img src="images/khach_hang.png" alt="Giao diện bảng chấm công" width="90%"/>
@@ -83,17 +83,19 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 
 | Tính năng | Mô tả |
 |-----------|-------|
-| 🕐 Chấm công thực thời | Check-in/out qua web, mobile, máy chấm công |
-| 📊 Báo cáo giờ làm | Tính giờ làm, giờ tăng ca, giờ ngoài |
-| 🏠 Làm việc từ xa | Đánh dấu WFH, quản lý linh hoạt |
-| ⚠️ Cảnh báo | Cảnh báo muộn, sớm, vắng mặt tự động |
-| 📅 Lịch công tác | Xếp lịch ca làm việc, công tác |
-| 🔍 Quản lý ngoài giờ | Tính tăng ca, giờ đêm, điều chỉnh |
-| 📈 Phân tích chấm công | Báo cáo xu hướng, thống kê, heatmap |
+| 👤 Quản lý thông tin khách hàng | Lưu trữ mã KH, tên, email, số điện thoại, địa chỉ |
+| 🏷️ Phân loại khách hàng | Cá nhân / Doanh nghiệp, theo mức thu nhập |
+| 🔎 Tìm kiếm & lọc | Lọc theo loại KH, trạng thái, giới tính, độ tuổi |
+| 📊 Nhóm & thống kê | Nhóm theo doanh thu, số đơn hàng, tình trạng |
+| 📞 Lịch sử giao dịch | Theo dõi hợp đồng, cơ hội, lịch sử mua hàng |
+| ⭐ Đánh dấu & yêu thích | Gắn sao, đánh dấu khách hàng quan trọng |
+| 🔐 Quản lý trạng thái | Quản lý khách hàng mới, đang hoạt động, ngừng |
+| 📈 Báo cáo khách hàng | Thống kê số lượng, doanh thu, tiềm năng |
+
 
 </div>
 
-### 3️⃣ Tính Lương Tự Động (Payroll Module) 💰
+### 3️⃣ Tài liệu văn bản (Document Management Module) 
 **Tính toán lương, phụ cấp, khấu trừ, BHXH tự động**
 
 <div align="center">
@@ -106,15 +108,16 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 
 | Tính năng | Mô tả |
 |-----------|-------|
-| 🧮 Công thức lương | Tạo quy tắc tính lương linh hoạt |
-| 💵 Thành phần lương | Lương cơ bản, thưởng, phụ cấp, vượt chi chỉ tiêu |
-| 📉 Khấu trừ | BHXH, BHYT, BHTN, tạm ứng, vay vốn |
-| 🔄 Tính toán tự động | Tích hợp dữ liệu chấm công, nghỉ phép |
-| 📊 Bảng lương | Xuất Excel, PDF, gửi email đến nhân viên |
-| 💳 Sao kê cá nhân | Nhân viên xem chi tiết lương, phụ cấp, khấu trừ |
-| ✅ Phê duyệt lương | Quy trình phê duyệt, lịch sử thay đổi |
-| 📈 Báo cáo lương | Báo cáo tháng, quý, năm, so sánh |
-| 🏦 Quản lý BHXH | Khai báo, tính BHXH, BHYT, BHTN |
+| 📄 Quản lý văn bản | Quản lý văn bản đến, văn bản đi và văn bản lưu trữ |
+| 🏷️ Phân loại văn bản | Phân loại theo loại văn bản: hợp đồng, công văn, thông báo |
+| 👤 Liên kết khách hàng | Gắn văn bản với khách hàng liên quan |
+| ✍️ Người ký & nơi nhận | Quản lý thông tin người ký, đơn vị nhận văn bản |
+| 📅 Ngày ban hành | Theo dõi ngày ban hành, số văn bản |
+| 📎 Đính kèm tệp | Lưu trữ file văn bản (PDF, Word, hình ảnh) |
+| 📝 Mô tả & nội dung | Lưu nội dung tóm tắt, ghi chú văn bản |
+| 🔄 Trạng thái xử lý | Soạn thảo – Đã ký – Đã ban hành – Lưu trữ |
+| 🔍 Tra cứu văn bản | Tìm kiếm theo tên, số, loại, khách hàng |
+
 
 </div>
 ## 🔧 3. Các công nghệ được sử dụng
