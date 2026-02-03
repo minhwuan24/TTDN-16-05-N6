@@ -33,14 +33,7 @@ nhằm hỗ trợ doanh nghiệp và tổ chức trong việc:
 Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công và nâng cao tính chính xác dữ liệu**.
 <div align="center">
 
-📸 **Giao diện hệ thống**
 
-<p>
-    <img src="images/khach_hang.png" alt="Màn hình Quản lý khách hàng" width="45%"/>
-    <img src="images/van_ban_di.png" alt="Màn hình các văn bản" width="45%"/>
-</p>
-
-</div>
 
 <br/>
 ### 🎯 Lợi ích chính:
