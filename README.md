@@ -44,6 +44,54 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 1. **Quản lý Nhân Sự** – Hồ sơ nhân viên, phòng ban, chức vụ
 2. **Quản lý Khách Hàng** – Thông tin khách hàng, liên hệ, hồ sơ
 3. **Quản lý Văn Bản** – Văn bản đến, văn bản đi, lưu trữ & tra cứu
+
+## 🎨 2. Các Tính Năng Chi Tiết
+
+### 1️⃣ Quản lý Nhân Sự (HR Module) 👥
+**Quản lý toàn bộ thông tin nhân viên và cấu trúc tổ chức**
+
+<div align="center">
+    <img src="images/nhansu.jpg" alt="Giao diện danh sách nhân sự" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Tính năng | Mô tả |
+|-----------|-------|
+| 📋 Hồ sơ nhân viên | Thông tin cá nhân, liên lạc, hộ khẩu, giấy tờ |
+| 🏢 Quản lý phòng ban | Tạo, chỉnh sửa phòng ban, quản lý cấu trúc |
+| 🎯 Quản lý chức vụ | Khai báo chức vụ, mô tả công việc, lương theo chức vụ |
+| 📜 Hợp đồng lao động | Tạo, theo dõi, quản lý hợp đồng, gia hạn |
+| 🎓 Kỹ năng & Đào tạo | Quản lý kỹ năng, khóa đào tạo, phát triển nhân sự |
+| 📊 Sơ đồ tổ chức | Biểu đồ cấu trúc công ty, quan hệ cấp bậc |
+| 🔄 Chuyển công tác | Thay đổi phòng ban, chức vụ, lương |
+
+</div>
+
+### 2️⃣ Chấm Công & Giờ Làm Việc (Attendance Module) ⏱️
+**Theo dõi thời gian làm việc, đi/về, làm việc từ xa**
+
+<div align="center">
+    <img src="images/chamcong.jpg" alt="Giao diện bảng chấm công" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Tính năng | Mô tả |
+|-----------|-------|
+| 🕐 Chấm công thực thời | Check-in/out qua web, mobile, máy chấm công |
+| 📊 Báo cáo giờ làm | Tính giờ làm, giờ tăng ca, giờ ngoài |
+| 🏠 Làm việc từ xa | Đánh dấu WFH, quản lý linh hoạt |
+| ⚠️ Cảnh báo | Cảnh báo muộn, sớm, vắng mặt tự động |
+| 📅 Lịch công tác | Xếp lịch ca làm việc, công tác |
+| 🔍 Quản lý ngoài giờ | Tính tăng ca, giờ đêm, điều chỉnh |
+| 📈 Phân tích chấm công | Báo cáo xu hướng, thống kê, heatmap |
+
+</div>
 ## 🔧 3. Các công nghệ được sử dụng
 <div align="center">
 
