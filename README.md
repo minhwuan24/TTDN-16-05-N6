@@ -32,10 +32,6 @@ nhằm hỗ trợ doanh nghiệp và tổ chức trong việc:
 
 Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công và nâng cao tính chính xác dữ liệu**.
 
-
-
-
-<br/>
 ### 🎯 Lợi ích chính:
 - ✅ Quản lý tập trung Nhân sự – Khách hàng – Văn bản
 - ✅ Giảm phụ thuộc vào giấy tờ và Excel thủ công
