@@ -96,7 +96,7 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 </div>
 
 ### 3️⃣ Tài liệu văn bản (Document Management Module) 
-**Tính toán lương, phụ cấp, khấu trừ, BHXH tự động**
+**Quản lý các văn bản liên quan đến từng khách hàng**
 
 <div align="center">
     <img src="images/van_ban_di.png" alt="Giao diện bảng lương" width="90%"/>
