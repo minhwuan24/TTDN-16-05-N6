@@ -51,7 +51,7 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 **Quản lý toàn bộ thông tin nhân viên và cấu trúc tổ chức**
 
 <div align="center">
-    <img src="images/nhansu.jpg" alt="Giao diện danh sách nhân sự" width="90%"/>
+    <img src="images/nhan_vien.png" alt="Giao diện danh sách nhân sự" width="90%"/>
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 **Theo dõi thời gian làm việc, đi/về, làm việc từ xa**
 
 <div align="center">
-    <img src="images/chamcong.jpg" alt="Giao diện bảng chấm công" width="90%"/>
+    <img src="images/khach_hang.png" alt="Giao diện bảng chấm công" width="90%"/>
 </div>
 
 <br/>
@@ -90,6 +90,31 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 | 📅 Lịch công tác | Xếp lịch ca làm việc, công tác |
 | 🔍 Quản lý ngoài giờ | Tính tăng ca, giờ đêm, điều chỉnh |
 | 📈 Phân tích chấm công | Báo cáo xu hướng, thống kê, heatmap |
+
+</div>
+
+### 3️⃣ Tính Lương Tự Động (Payroll Module) 💰
+**Tính toán lương, phụ cấp, khấu trừ, BHXH tự động**
+
+<div align="center">
+    <img src="images/van_ban_di.png" alt="Giao diện bảng lương" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| Tính năng | Mô tả |
+|-----------|-------|
+| 🧮 Công thức lương | Tạo quy tắc tính lương linh hoạt |
+| 💵 Thành phần lương | Lương cơ bản, thưởng, phụ cấp, vượt chi chỉ tiêu |
+| 📉 Khấu trừ | BHXH, BHYT, BHTN, tạm ứng, vay vốn |
+| 🔄 Tính toán tự động | Tích hợp dữ liệu chấm công, nghỉ phép |
+| 📊 Bảng lương | Xuất Excel, PDF, gửi email đến nhân viên |
+| 💳 Sao kê cá nhân | Nhân viên xem chi tiết lương, phụ cấp, khấu trừ |
+| ✅ Phê duyệt lương | Quy trình phê duyệt, lịch sử thay đổi |
+| 📈 Báo cáo lương | Báo cáo tháng, quý, năm, so sánh |
+| 🏦 Quản lý BHXH | Khai báo, tính BHXH, BHYT, BHTN |
 
 </div>
 ## 🔧 3. Các công nghệ được sử dụng
