@@ -31,7 +31,7 @@ nhằm hỗ trợ doanh nghiệp và tổ chức trong việc:
 - Đồng bộ dữ liệu giữa các bộ phận trong hệ thống
 
 Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công và nâng cao tính chính xác dữ liệu**.
-<div align="center">
+
 
 
 
@@ -42,7 +42,6 @@ Hệ thống giúp **tăng hiệu quả quản lý, giảm thao tác thủ công
 - ✅ Dữ liệu liên kết, đồng bộ giữa các module
 - ✅ Phân quyền rõ ràng, bảo mật thông tin
 - ✅ Phù hợp cho cơ quan, doanh nghiệp, tổ chức hành chính
-
 
 ### 📌 Module Cốt Lõi:
 1. **Quản lý Nhân Sự** – Hồ sơ nhân viên, phòng ban, chức vụ
